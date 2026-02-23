@@ -24,7 +24,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
             <img
               src="/ownabrix-logo.png"
               alt="Ownabrix"
-              className="h-7 md:h-9 w-auto object-contain"
+              className="h-8 md:h-10 w-auto object-contain"
             />
           </Link>
 
